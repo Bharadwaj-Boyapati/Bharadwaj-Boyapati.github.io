@@ -408,6 +408,10 @@ section {
   text-align: center;
 }
 
+.about .content p {
+  text-align: center;
+}
+
 .about .content ul {
   list-style: none;
   padding: 0;
