@@ -295,6 +295,14 @@ h6 {
   right: 0;
 }
 
+#hero h3 {
+  margin: 0;
+  font-size: 40px;
+  font-weight: 700;
+  line-height: 56px;
+  color: #45505b;
+}
+
 #hero h1 {
   margin: 0;
   font-size: 64px;
@@ -335,6 +343,11 @@ h6 {
 @media (max-width: 992px) {
   #hero {
     text-align: center;
+  }
+
+  #hero h3 {
+    font-size: 32px;
+    line-height: 36px;
   }
 
   #hero h1 {
