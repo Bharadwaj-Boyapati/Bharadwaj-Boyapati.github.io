@@ -408,6 +408,12 @@ section {
   text-align: center;
 }
 
+.img-fluid {
+  max-width: 200%;
+  height: 75%;
+  border-radius: 15%;
+}
+
 .about .content p {
   text-align: center;
 }
